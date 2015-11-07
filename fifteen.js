@@ -9,7 +9,7 @@
 	blankX = '300px';
 	blankY = '300px';
 	//The window.onload = function () is used to load the window before running the code
-	windoww.onload = function ()
+	window.onload = function ()
 	{
 		var puzzlearea = document.getElementById('puzzlearea');
 		
